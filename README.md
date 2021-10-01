@@ -1,4 +1,4 @@
-# Spring-MVC-Hello-World-Eclipse
+# Spring-MVC-CRUD-Eclipse
 <h2> prerequisites </h2>
 
 <ul>
