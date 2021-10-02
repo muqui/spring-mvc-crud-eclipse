@@ -13,7 +13,6 @@
  
 
 import com.alberto.beans.Person;
-import com.alberto.config.Conexion;
 import com.alberto.dao.PersonDao;
   
 @Controller
